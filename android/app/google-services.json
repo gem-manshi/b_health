@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44186036350",
+    "project_id": "b-health-91137",
+    "storage_bucket": "b-health-91137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44186036350:android:ea51f78ac434e32c4b902f",
+        "android_client_info": {
+          "package_name": "com.b_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44186036350-nnue59kk7e9gehaoqq4jjeviogat30b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b_health",
+            "certificate_hash": "ba7e8ca59157003ae23c1c4e3c7704104d1bc1f6"
+          }
+        },
+        {
+          "client_id": "44186036350-ciudrv9grjsd453gtr454m2npudmiv78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltHiUWbDM4QUVR2rijN5HLh_RanXvPbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44186036350-ciudrv9grjsd453gtr454m2npudmiv78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
